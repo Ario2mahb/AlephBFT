@@ -9,6 +9,6 @@
 **/*.rs.bk
 
 # Profiler
-*.profdata
+*.profdata9789
 
 /docs/book
